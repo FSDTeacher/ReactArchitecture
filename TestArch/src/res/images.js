@@ -1,0 +1,63 @@
+/**
+ * Define all the Image Name 
+ * For auto defination run below command 
+ * npm run images
+ * Created by : Gautam Sharma
+ */
+
+const images = {
+  add: require('./images/add.png'),
+  arrow_drop_down: require('./images/arrow_drop_down.png'),
+  arrow_pointing_to_right: require('./images/arrow_pointing_to_right.png'),
+  business_loan: require('./images/business_loan.png'),
+  cancer: require('./images/cancer.png'),
+  car: require('./images/car.png'),
+  card: require('./images/card.png'),
+  chat: require('./images/chat.png'),
+  check: require('./images/check.png'),
+  cheque: require('./images/cheque.png'),
+  close: require('./images/close.png'),
+  commercial: require('./images/commercial.png'),
+  corporate_insurance: require('./images/corporate_insurance.png'),
+  credit_card: require('./images/credit_card.png'),
+  dengue: require('./images/dengue.png'),
+  doc_icon: require('./images/doc_icon.png'),
+  edit: require('./images/edit.png'),
+  expand_more_copy: require('./images/expand_more_copy.png'),
+  filter: require('./images/filter.png'),
+  group_13: require('./images/group_13.png'),
+  group_15: require('./images/group_15.png'),
+  group_3: require('./images/group_3.png'),
+  group_5: require('./images/group_5.png'),
+  group_7: require('./images/group_7.png'),
+  health: require('./images/health.png'),
+  heart: require('./images/heart.png'),
+  heart_and_cancer: require('./images/heart_and_cancer.png'),
+  home_fin_loan: require('./images/home_fin_loan.png'),
+  home_insurance: require('./images/home_insurance.png'),
+  home_loan: require('./images/home_loan.png'),
+  hospitalization: require('./images/hospitalization.png'),
+  iho: require('./images/iho.png'),
+  investment: require('./images/investment.png'),
+  life: require('./images/life.png'),
+  loan_against_property: require('./images/loan_against_property.png'),
+  logo: require('./images/logo.png'),
+  menu_button: require('./images/menu_button.png'),
+  my_account: require('./images/my_account.png'),
+  my_business: require('./images/my_business.png'),
+  outline_date_range: require('./images/outline_date_range.png'),
+  outline_edit: require('./images/outline_edit.png'),
+  path: require('./images/path.png'),
+  personal_accident: require('./images/personal_accident.png'),
+  personal_loan: require('./images/personal_loan.png'),
+  rc: require('./images/rc.png'),
+  reminder: require('./images/reminder.png'),
+  rsa: require('./images/rsa.png'),
+  search: require('./images/search.png'),
+  super_topup: require('./images/super_topup.png'),
+  term_life: require('./images/term_life.png'),
+  travel: require('./images/travel.png'),
+  two_wheeler: require('./images/two_wheeler.png'),
+  under_main: require('./images/under_main.png')
+}
+export default images;
